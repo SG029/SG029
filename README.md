@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sushant Gola
-- 👀 I’m interested in learning and implement my python skillsto solve problems
+- 👀 I’m interested in learning and implementing my python skills to solve problems
 - 🌱 I’m currently learning python
 - 📫 How to reach me --> mail me on sushantsg29@gmail.com
 
