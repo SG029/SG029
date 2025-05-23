@@ -7,39 +7,21 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,js,ts,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,tailwind,opencv,firebase,mysql,figma,canva,intellij,vivado" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+### 🎮 Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://dev.to/YOUR-DEV-TO/" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📚 Tech Stack (Detailed)
-
-Proficient in **Python, C++, Java, JavaScript, React.js, and Tailwind CSS**. Skilled in **OpenCV, Firebase, MySQL**, and **DSA** for robust software solutions.  
-Adept in tools like **Figma, Canva, IntelliJ, Vivado**, and **KiCad** for seamless development and design.  
-🎮 **Projects**: From developing interactive games using OpenCV to crafting sleek UIs with modern frameworks, my projects showcase innovation and functionality.  
+From developing interactive games using OpenCV to crafting sleek UIs with modern frameworks, my projects showcase innovation and functionality.  
 Feel free to explore my repositories and see my work in action.
 
 ---
 
 ### 🌟 Hobbies & Interests
 
-Beyond coding, I enjoy playing **cricket, chess**, and the **guitar**, blending strategic thinking with creativity.
+Beyond coding, I enjoy playing **cricket**, **chess**, and the **guitar**, blending strategic thinking with creativity.
 
 ---
 
@@ -49,6 +31,22 @@ I'm always excited to collaborate on challenging projects, explore new technolog
 
 ---
 
-### 🔗 Explore More
+### ✨ Explore More
 
 Check out my repositories below, and feel free to connect! Let's build something incredible together.
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://dev.to/YOUR-DEV-USERNAME" target="_blank">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" />
+  </a>
+</p>
