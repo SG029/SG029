@@ -7,7 +7,7 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,tailwind,opencv,firebase,mysql,figma,canva,intellij,vivado" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,tailwind,nodejs,html,css,opencv,firebase,mysql,figma,canva,intellij,vscode" />
 </p>
 
 ---
@@ -40,13 +40,10 @@ Check out my repositories below, and feel free to connect! Let's build something
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/sushant-gola/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://dev.to/YOUR-DEV-USERNAME" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="40" height="40" />
+  <a href="https://sushantgola.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40" />
   </a>
 </p>
