@@ -43,7 +43,6 @@ Check out my repositories below, and feel free to connect! Let's build something
   <a href="https://www.linkedin.com/in/sushant-gola/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="https://sushantgola.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40" />
-  </a>
 </p>
+
+🔗 [Visit my personal portfolio website](https://sushantgola.netlify.app/)
